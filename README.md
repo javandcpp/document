@@ -36,4 +36,5 @@
 <li><a href="https://github.com/desmond1121?tab=repositories">bilibili</a></li>
 <li><a href="https://github.com/wangyj">某东 Android 系统架构组</a></li>
 <li><a href="http://blog.csdn.net/lmj623565791">某度</a></li>
+<li><a href="https://lug.ustc.edu.cn/wiki/mirrors/help/aosp">AOSP(Android) 镜像使用帮助 [LUG@USTC]</a></li>
 
